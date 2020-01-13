@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: zard5776/zard5776.github.io
 github_url: https://github.com/zard5776
 url: http://www.zard5776.com
-enforce_ssl: zard5776.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
